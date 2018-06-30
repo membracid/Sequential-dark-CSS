@@ -1,0 +1,31 @@
+.site-header { 
+background-color: #000}
+
+.site-content {
+	background-color: #000}
+
+.banner {
+	background-color: #000}
+
+.hero {
+	background-color: #000}
+
+body{ 
+	background-color: #000}
+
+a {color: goldenrod}
+
+body, textarea {color: white}
+
+.site-title a:hover {color: goldenrod}
+
+.entry-title {color: white
+}
+
+.grid-area 
+{background-color: black}
+
+.site-main {background-color: black}
+
+
+
