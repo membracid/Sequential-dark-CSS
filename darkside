@@ -27,5 +27,8 @@ body, textarea {color: white}
 
 .site-main {background-color: black}
 
+.site-footer
+{background: black;}
 
+.footer-navigation {background: black}
 
