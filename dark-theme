@@ -10,6 +10,7 @@ background-color: #000}
 .hero {
 	background-color: #000}
 
+
 body{ 
 	background-color: #000}
 
@@ -18,7 +19,6 @@ a {color: goldenrod}
 body, textarea {color: white}
 
 .site-title a:hover {color: goldenrod}
-.site-main {background-color: black}
 
 .entry-title {color: white
 }
@@ -26,8 +26,28 @@ body, textarea {color: white}
 .grid-area 
 {background-color: black}
 
+.site-main {background-color: black}
 
-.site-footer {background: black;}
-.footer-navigation {background: black}
+.site-footer
+{background: black;}
+
+.site .footer-navigation {background: black}
+
+a.button
+ {background: goldenrod;}
+
+main.navigation.toggled 
+.menu-primary 
+{background: black}
+
+.main-navigation.toggled .menu-primary {border-top: 3px solid goldenrod;
+border-bottom: 1px solid goldenrod;
+background-color: black}
+
+.main-navigation li {
+	border-bottom: 2px solid goldenrod;}
+
 .footer-widget-area h1 {color: white}
 .footer-widget-area p {color: white}
+.footer-widget-area {background: #333}
+
