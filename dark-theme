@@ -1,53 +1,62 @@
-.site-header { 
-background-color: #000}
-
-.site-content {
-	background-color: #000}
-
-.banner {
-	background-color: #000}
-
-.hero {
-	background-color: #000}
-
-
-body{ 
-	background-color: #000}
-
-a {color: goldenrod}
-
-body, textarea {color: white}
-
-.site-title a:hover {color: goldenrod}
-
-.entry-title {color: white
+.site-header {
+	background-color: #000
 }
-
-.grid-area 
-{background-color: black}
-
-.site-main {background-color: black}
-
-.site-footer
-{background: black;}
-
-.site .footer-navigation {background: black}
-
-a.button
- {background: goldenrod;}
-
-main.navigation.toggled 
-.menu-primary 
-{background: black}
-
-.main-navigation.toggled .menu-primary {border-top: 3px solid goldenrod;
-border-bottom: 1px solid goldenrod;
-background-color: black}
-
+.site-content {
+	background-color: #000
+}
+.banner {
+	background-color: #000
+}
+.hero {
+	background-color: #000
+}
+body {
+	background-color: #000
+}
+a {
+	color: goldenrod
+}
+body, textarea {
+	color: white
+}
+.site-title a:hover {
+	color: goldenrod
+}
+.entry-title {
+	color: white
+}
+.grid-area {
+	background-color: black
+}
+.site-main {
+	background-color: black
+}
+.site-footer {
+	background: black;
+}
+.site .footer-navigation {
+	background: black
+}
+a.button {
+	background: goldenrod;
+}
+main.navigation.toggled .menu-primary {
+	background: black
+}
+.main-navigation.toggled .menu-primary {
+	border-top: 3px solid goldenrod;
+	border-bottom: 3px solid goldenrod;
+	background-color: black
+}
 .main-navigation li {
-	border-bottom: 2px solid goldenrod;}
-
-.footer-widget-area h1 {color: white}
-.footer-widget-area p {color: white}
-.footer-widget-area {background: #333}
-
+	border-bottom: 2px solid goldenrod;
+}
+.footer-widget-area h1 {
+	color: white
+}
+.footer-widget-area p {
+	color: white
+}
+.footer-widget-area {
+	background: #333
+}
