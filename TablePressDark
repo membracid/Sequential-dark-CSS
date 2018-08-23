@@ -1,16 +1,13 @@
 .tablepress .even td {
   background-color: inherit;
-  color: indianred;
 }
 
 .tablepress .odd td {
   background-color: inherit;
-  color: indianred;
 }
 
 .tablepress tfoot th, .tablepress thead th {
   background-color: inherit;
-  color: white;
 }
 
 .tablepress .row-hover tr:hover td {
