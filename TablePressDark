@@ -13,3 +13,6 @@
   color: white;
 }
 
+.tablepress .row-hover tr:hover td {
+	background-color: darkgrey;
+}
